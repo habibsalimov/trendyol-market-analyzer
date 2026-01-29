@@ -47,3 +47,5 @@ zipp
 google-generativeai
 streamlit
 python-dotenv
+
+plotly
